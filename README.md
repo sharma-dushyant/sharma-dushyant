@@ -1,44 +1,29 @@
-Hi there! 👋
-
-
+## Hi there 👋
 
 🚀 About Me
-I'm a 25-year-old Flutter & Dart enthusiast, passionate about building apps and exploring new technologies!
-
-
-
-
+I'm a 25-year-old Flutter & Dart enthusiast, passionate about building apps and exploring new technologies.
 
 Prev. Intern @StuFlo (Mobile Development)
 
-
-
 Currently: Working on personal projects & learning Flutter/Dart
 
-
+---
 
 🛠 Skills
 Flutter • Dart • Python • JavaScript • Firebase • Git • HTML • CSS
 
-
+---
 
 🔗 Featured Projects
+- [Music-App](https://github.com/sharma-dushyant/Music-App)
+- [Zomato_App](https://github.com/sharma-dushyant/Zomato_App)
+- [first-flutter-app](https://github.com/sharma-dushyant/first-flutter-app)
 
-
-
-
-
-Music-App
-
-
-
-Zomato_App
-
-
-
-first-flutter-app
-
-
+---
 
 📫 Connect with me
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/d-sharma99/)
+
+---
+
+![Dushyant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharma-dushyant&show_icons=true&theme=radical)
