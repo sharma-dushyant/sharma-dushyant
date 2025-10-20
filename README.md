@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**sharma-dushyant/sharma-dushyant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I'm a 25-year-old Flutter & Dart enthusiast, passionate about building apps and exploring new technologies.
 
-Here are some ideas to get you started:
+Prev. Intern @StuFlo (Mobile Development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: Working on personal projects & learning Flutter/Dart
+
+---
+
+🛠 Skills
+Flutter • Dart • JavaScript • Firebase • Git
+
+---
+
+🔗 Featured Projects
+- [Music-App](https://github.com/sharma-dushyant/Music-App)
+- [Zomato_App](https://github.com/sharma-dushyant/Zomato_App)
+- [first-flutter-app](https://github.com/sharma-dushyant/first-flutter-app)
+
+---
+
+📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/d-sharma99/)
+
+---
+
+![Dushyant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharma-dushyant&show_icons=true&theme=radical)
